@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\work\ArmProjects\RDC2-0051_v0.0\Src\ADC.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Inc\DSP.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Inc\Delay.h</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Src\Delay.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Src\I2C_DSP.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Src\KEYs.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v0.0\Src\USBport.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>F:\ArmProjects\RDC2-0051_v1.0\Src\main.c</path>
+        <encoding>Win-1251</encoding>
+    </override>
+</userOverrides>
