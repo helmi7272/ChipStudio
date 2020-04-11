@@ -25,7 +25,6 @@ CHIP Studio поддерживает все модули RDC2-0027, собран
 Питание &ndash; 5В внешнее или USB<br />
 Размер платы: 100 мм х 34 мм
 <h2>Схема</h2>
-
 <p><a class="galery" href="https://static.chipdip.ru/lib/279/DOC005279118.png"><img alt="Схема" src="https://static.chipdip.ru/lib/279/DOC005279119.png" /></a></p>
 
 <h2>Назначение разъемов</h2>
