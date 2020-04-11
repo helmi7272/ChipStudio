@@ -32,8 +32,6 @@ CHIP Studio поддерживает все модули RDC2-0027, собран
 <p><a class="galery" href="https://static.chipdip.ru/lib/279/DOC005279136.png"><img alt="Схема" src="https://static.chipdip.ru/lib/279/DOC005279137.png" /></a></p>
 
 <h2>Подключение ADAU1761</h2>
-
 <p><a class="galery" href="https://static.chipdip.ru/lib/294/DOC005294277.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/294/DOC005294278.jpg" /></a></p>
-
 <h2>Подключение ADAU1701</h2>
 <p><a class="galery" href="https://static.chipdip.ru/lib/294/DOC005294307.jpg"><img alt="Схема" src="https://static.chipdip.ru/lib/294/DOC005294308.jpg" /></a></p>
