@@ -1,0 +1,9 @@
+### Module positions - created on 11/21/17 13:45:14 ###
+### Printed by Pcbnew version kicad 4.0.5
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                     PosX       PosY       Rot  Side
+G***      LOGO      Logo_silk_OSHW_6x6mm_   108.6500   -79.5000  180.0000  bottom
+G***      LOGO      RDC_PCB                 111.8000   -65.0500  180.0000  bottom
+G***      LOGO      graf                    112.5220   -54.9910  180.0000  bottom
+## End

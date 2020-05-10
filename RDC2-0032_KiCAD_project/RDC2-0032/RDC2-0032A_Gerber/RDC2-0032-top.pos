@@ -1,0 +1,38 @@
+### Module positions - created on 11/21/17 13:45:14 ###
+### Printed by Pcbnew version kicad 4.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                       PosX       PosY       Rot  Side
+C1        0,1мкФ       C_0603_HandSoldering                      109.0500   -81.8500  270.0000  top
+C2        4,7мкФ       C_0603_HandSoldering                      122.6500   -53.6500    0.0000  top
+C3        0,1             C_0603_HandSoldering                      108.7000   -97.8000   90.0000  top
+C4        0,1             C_0603_HandSoldering                      110.2000   -97.8000   90.0000  top
+C5        0,1             C_0603_HandSoldering                      111.7000   -97.8000   90.0000  top
+C6        0,1             C_0603_HandSoldering                      113.2000   -97.8000   90.0000  top
+C7        0,1             C_0603_HandSoldering                      114.7000   -97.8000   90.0000  top
+C8        0,1             C_0603_HandSoldering                      116.2000   -97.8000   90.0000  top
+C9        0,01мкФ      C_0603_HandSoldering                      115.3000   -55.1000   90.0000  top
+C10       4,7мкФ       C_0603_HandSoldering                      122.6500   -56.0500    0.0000  top
+C11       0,1мкФ       C_0603_HandSoldering                      107.0000   -81.8500  270.0000  top
+C12       0,1мкФ       C_0603_HandSoldering                      110.5500   -81.8500  270.0000  top
+C13       0,1мкФ       C_0603_HandSoldering                      114.6000   -65.8500    0.0000  top
+C14       10мкФ        TantalC_SizeA_EIA-3216_HandSoldering_mm   123.9000   -92.3500  270.0000  top
+C15       0,1мкФ       C_0603_HandSoldering                      112.0500   -59.7500  270.0000  top
+DA1       LP2985AIM5-3.3  SOT-23-5_mm                               118.3000   -54.8500  270.0000  top
+DD1       STM32F042K6Tx   TQFP-32_7x7mm_Pitch0.8mm                  109.8000   -73.2500   90.0000  top
+R1        4k7             R_0603_HandSoldering                      105.7500   -86.8000  180.0000  top
+R2        4k7             R_0603_HandSoldering                      105.7500   -85.2000  180.0000  top
+R3        10k             R_0603_HandSoldering                      101.0000   -76.0500  270.0000  top
+R4        10k             R_0603_HandSoldering                      108.4000   -87.9000  270.0000  top
+R5        10k             R_0603_HandSoldering                      110.0000   -87.9000  270.0000  top
+R6        10k             R_0603_HandSoldering                      111.6000   -87.9000  270.0000  top
+R7        10k             R_0603_HandSoldering                      113.2000   -87.9000  270.0000  top
+R8        10k             R_0603_HandSoldering                      114.8000   -87.9000  270.0000  top
+R9        10k             R_0603_HandSoldering                      116.4000   -87.9000  270.0000  top
+R10       10k             R_0603_HandSoldering                      104.2000   -57.7500   90.0000  top
+R11       10k             R_0603_HandSoldering                      102.6000   -57.7500   90.0000  top
+R12       10k             R_0603_HandSoldering                      101.0000   -57.7500   90.0000  top
+R13       22R             R_0603_HandSoldering                      109.8000   -63.2500   90.0000  top
+R14       22R             R_0603_HandSoldering                      108.2000   -63.2500   90.0000  top
+VD1       USBLC6          SOT23-6L                                  109.0000   -58.8000  270.0000  top
+## End
